@@ -1,0 +1,62 @@
+{
+    "name": "Weekly Playlist — 2026-09-26",
+    "created_at": "2026-09-26T13:43:38.660743+01:00",
+    "preferences": {
+        "genre": "pop",
+        "artist": "Ed Sheeran",
+        "playlist_size": 5
+    },
+    "track_count": 5,
+    "tracks": [
+        {
+            "track_id": "1193701442",
+            "title": "What Do I Know?",
+            "artist": "Ed Sheeran",
+            "album": "÷ (Deluxe)",
+            "genre": "Pop",
+            "release_date": "2017-03-03T08:00:00Z",
+            "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c8/b6/aa/c8b6aad2-086e-3957-beb6-1c352bec85f3/mzaf_6925313312696286336.plus.aac.p.m4a",
+            "track_url": "https://music.apple.com/us/album/what-do-i-know/1193701079?i=1193701442&uo=4"
+        },
+        {
+            "track_id": "1464550166",
+            "title": "BLOW",
+            "artist": "Ed Sheeran, Chris Stapleton & Bruno Mars",
+            "album": "No.6 Collaborations Project",
+            "genre": "Pop",
+            "release_date": "2019-07-05T07:00:00Z",
+            "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/6f/65/d36f6546-0442-63c3-a9dd-85129a6ba5f3/mzaf_17651687746710562841.plus.aac.p.m4a",
+            "track_url": "https://music.apple.com/us/album/blow/1464549183?i=1464550166&uo=4"
+        },
+        {
+            "track_id": "1615585008",
+            "title": "As It Was",
+            "artist": "Harry Styles",
+            "album": "Harry's House",
+            "genre": "Pop",
+            "release_date": "2022-03-31T07:00:00Z",
+            "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/10/16/67101606-3869-ca44-6c03-e13d6322cb51/mzaf_1135399237022217274.plus.aac.p.m4a",
+            "track_url": "https://music.apple.com/us/album/as-it-was/1615584999?i=1615585008&uo=4"
+        },
+        {
+            "track_id": "1471580177",
+            "title": "I Don't Care",
+            "artist": "Ed Sheeran & Justin Bieber",
+            "album": "No.6 Collaborations Project",
+            "genre": "Pop",
+            "release_date": "2019-05-10T07:00:00Z",
+            "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/84/bb/fb/84bbfbcd-9f63-dfa0-8660-ff86ced2eaaa/mzaf_11693010840075646451.plus.aac.p.m4a",
+            "track_url": "https://music.apple.com/us/album/i-dont-care/1471580171?i=1471580177&uo=4"
+        },
+        {
+            "track_id": "1621817894",
+            "title": "I Ain't Worried",
+            "artist": "OneRepublic",
+            "album": "Top Gun: Maverick (Music from the Motion Picture)",
+            "genre": "Pop",
+            "release_date": "2022-05-13T07:00:00Z",
+            "preview_url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1e/a1/3d/1ea13da1-8ac6-e603-ec6f-3f6d5b89f8f3/mzaf_8445589109258687921.plus.aac.p.m4a",
+            "track_url": "https://music.apple.com/us/album/i-aint-worried/1621817793?i=1621817894&uo=4"
+        }
+    ]
+}
