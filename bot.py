@@ -302,6 +302,8 @@ def main():
         .token(BOT_TOKEN)
         .concurrent_updates(False)
         .build()
+        .read_timeout(60) 
+        .write_timeout(60)  
     )
 
     playlist_conversation = ConversationHandler(
